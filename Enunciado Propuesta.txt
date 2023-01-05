@@ -1,0 +1,26 @@
+Ejercicio de Frutas.txt ENUNCIADO
+
+En el ejercicio se pide que se realice un programa con un menu de seleccion el cual debe incluir las siguientes opciones
+
+                                                    ***********************
+                                                    *     Menu Opcion     *
+                                                    ***********************
+                                                    *  1. Agregar Frutas  *
+                                                    *  2. Ver la lista    *
+                                                    *  3. Ordenar lista   *
+                                                    *  4. Buscar Frutas   *
+                                                    *  5. Eliminar lista  *
+                                                    *  6. Salir           *
+                                                    ***********************
+
+Agregar Frutas : Debe pedir una fruta para agregarla a un archivo txt de nombre fruta.txt, luego debe preguntar si desea agregar
+otra fruta o volver al menu.
+
+Ver lista: Debe mostrar la lista de frutas que esten en el fichero 
+
+Buscar Frutas: Debe pedir el nombre de la fruta que va a buscar, luego mostrar las veces que esta y el nombre del fichero donde se encuentra
+
+Eliminar lista: Debe poder eliminar la fruta de la lista y sus copias y guardarse en el mismo fichero
+
+Salir: Debe cerrar la aplicacion
+
